@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/77045939/153823079-45f58a1c-46e0-44e2-821f-ae201460c6ac.png" width="150" height="150"/><br>
   <span>React Native Web and Application using the expo.</span>
 </p>
-<center>[Test QRcode](https://expo.dev/@mooncode/wttodoapp) • [Github pages](https://xmun74.github.io/WorkTravelToDoApp/)</center>
-
----
+<div align=center>
+  [Test QRcode](https://expo.dev/@mooncode/wttodoapp){:target="_blank"} • [Github pages](https://xmun74.github.io/WorkTravelToDoApp/){:target="_blank"}
+</div>
 
 ## Features
 
