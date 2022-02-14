@@ -12,10 +12,10 @@ React Native Web and Application using the expo.
 
 ## Test Expo App
 
-[just test]("https://expo.dev/@mooncode/wttodoapp")
+[just test](https://expo.dev/@mooncode/wttodoapp)
 
-![work](screenimages./work.png)
-![travel](screenimages./travel.png)
-![check](screenimages./check.png)
-![delete](screenimages./delete.png)
-![edit](screenimages./edit.png)
+![work](./screenimages/work.png)
+![travel](./screenimages/travel.png)
+![check](./screenimages/check.png)
+![delete](./screenimages/delete.png)
+![edit](./screenimages/edit.png)
