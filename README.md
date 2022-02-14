@@ -12,10 +12,10 @@ React Native Web and Application using the expo.
 
 ## Test Expo App
 
-[just test](https://expo.dev/@mooncode/wttodoapp)
+- [Test QRcode](https://expo.dev/@mooncode/wttodoapp)
 
-![work](./screenimages/work.jpg)
-![travel](./screenimages/travel.jpg)
-![check](./screenimages/check.jpg)
-![delete](./screenimages/delete.jpg)
-![edit](./screenimages/edit.jpg)
+![work](https://user-images.githubusercontent.com/77045939/153821610-d326d998-5fe5-4979-a2f6-ac11bf4b6f31.jpg width="200" height="400")
+![travel](https://user-images.githubusercontent.com/77045939/153821624-9a3a51e9-57dd-4be8-af19-d6c200468a7c.jpg width="200" height="400")
+![check](https://user-images.githubusercontent.com/77045939/153821616-8ee7ce1f-8157-4e29-b76f-2ae34b2b5134.jpg width="200" height="400")
+![delete](https://user-images.githubusercontent.com/77045939/153821619-adca4052-43a3-4d63-a2cd-16544ac8c4c4.jpg width="200" height="400")
+![edit](https://user-images.githubusercontent.com/77045939/153821622-d747af6d-d98e-4902-8207-75886175e198.jpg width="200" height="400")
