@@ -3,7 +3,8 @@
   <span>React Native Web and Application using the expo.</span>
 </p>
 <div align=center>
-  [Test QRcode](https://expo.dev/@mooncode/wttodoapp){:target="_blank"} • [Github pages](https://xmun74.github.io/WorkTravelToDoApp/){:target="_blank"}
+  <a href="https://expo.dev/@mooncode/wttodoapp" target="_blank">Test QRcode</a> • 
+  <a href="https://xmun74.github.io/WorkTravelToDoApp/" target="_blank">Github pages</a>
 </div>
 
 ## Features
