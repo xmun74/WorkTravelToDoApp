@@ -1,0 +1,57 @@
+<시작>
+cd Documents
+expo init 프로젝트명 --npm
+>blank 선택
+code .
+npm start해서 expo로 테스트
+
+<work - Travel 생성>
+- TouchableOpacity : working useState
+- TextInput : text
+- ScrollView : toDos
+- AsyncStorage
+- load
+- delete 객체의 속성을 제거
+- Alert.alert
+- EXPO 아이콘
+
+<저장 AsyncStorage :expo모듈>
+expo install @react-native-async-storage/async-storage 설치
+import AsyncStorage from "@react-native-async-storage/async-storage"; 하고
+
+
+
+<AsyncStorage에 저장하기>
+1. 저장소(네트워크)에 저장하려면 obj를 JSON(string)으로 변형해야한다.
+  => json은 string형태이기 때문에
+  stringify(): 객체 => JSON 문자열  =>보낼때
+  parse()    : JSON 문자열 => 자바스크립트 객체  <=받을때
+ 
+
+const storeData = async (value) => {
+  try {
+    const jsonValue = JSON.stringify(value) 
+    await AsyncStorage.setItem('@storage_Key', jsonValue)
+  } catch (e) {
+    // saving error
+  }
+}
+
+예)  const saveToDos = async (toSave) => {
+    await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(toSave)); 
+    // JSON.stringify(toSave) : 현재 todos를 string으로 변경
+    //("@key이름", value) : key, value 다 ""string이어야 함
+  };
+
+
+
+<불러오기>
+const getData = async () => {
+  try {
+    const jsonValue = await AsyncStorage.getItem('@storage_Key')
+    return jsonValue != null ? JSON.parse(jsonValue) : null;
+  } catch(e) {
+    // error reading value
+  }
+}
+
