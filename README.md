@@ -1,9 +1,10 @@
-# Work Travel To Do App
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77045939/153823079-45f58a1c-46e0-44e2-821f-ae201460c6ac.png" width="150" height="150"/>   
-  <span>React Native Web and Application using the expo.</span>
 </p>
+
+---
+
+  <center>React Native Web and Application using the expo.</center>
 
 # Features
 
