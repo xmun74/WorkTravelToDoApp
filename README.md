@@ -14,8 +14,8 @@ React Native Web and Application using the expo.
 
 [just test](https://expo.dev/@mooncode/wttodoapp)
 
-![work](./screenimages/work.png)
-![travel](./screenimages/travel.png)
-![check](./screenimages/check.png)
-![delete](./screenimages/delete.png)
-![edit](./screenimages/edit.png)
+![work](./screenimages/work.jpg)
+![travel](./screenimages/travel.jpg)
+![check](./screenimages/check.jpg)
+![delete](./screenimages/delete.jpg)
+![edit](./screenimages/edit.jpg)
