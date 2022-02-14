@@ -1,4 +1,5 @@
 {
+  "homepage": "http://xmun74.github.io/WorkTravelToDoApp",
   "name": "worktraveltodoapp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
