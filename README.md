@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77045939/153823079-45f58a1c-46e0-44e2-821f-ae201460c6ac.png" width="150" height="150"/>   
+  <span>React Native Web and Application using the expo.</span>
+</p>
+<p align="center">
+  [Test QRcode](https://expo.dev/@mooncode/wttodoapp) • [Github pages](https://xmun74.github.io/WorkTravelToDoApp/)
 </p>
 
 ---
 
-  <center>React Native Web and Application using the expo.</center>
-
-# Features
+## Features
 
 - [x] Work & Travel Menu
 - [x] To Do List
@@ -16,10 +18,7 @@
 - [x] AsyncStorage
 - [x] ScrollView
 
-## Test Expo App & Web
-
-- [Test QRcode](https://expo.dev/@mooncode/wttodoapp)
-- [Github pages](https://xmun74.github.io/WorkTravelToDoApp/)
+## Preview
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/77045939/153821610-d326d998-5fe5-4979-a2f6-ac11bf4b6f31.jpg" width="200" height="400"/>
